@@ -1,0 +1,38 @@
+ul{
+	padding: 0;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	padding-right: 10px;
+}
+li a {
+	color: #333;
+}
+li a:hover {
+	color: #00c853;
+}
+
+.card-img-top{
+	height: 150px;
+}
+
+.second-header{
+	font-size: 1.3rem;
+	padding: 0 0 0 0.8rem;
+}
+.card-title{
+	color: #333;
+}
+.card{
+	border: none;
+}
+.card-body{
+	padding: 1.6rem 0rem;
+}
+.card .card-title{
+	font-size: 1.1rem;
+}
+.card{
+	background-color: transparent;
+}

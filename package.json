@@ -1,0 +1,16 @@
+{
+  "name": "opensnippets-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages-deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://opensnippets.github.io/opensnippets-bootstrap-theme",
+  "dependencies": {
+    "gh-pages-deploy": "^0.5.1"
+  }
+}
